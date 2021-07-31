@@ -1,0 +1,102 @@
+[
+    {
+      "name": "Harvey",
+      "breed" : "Breed: Rough Collie mix (Rescue dog). ",
+      "age" : " Age: 6 years.",
+      "skills" : "Skills: Frisbee catching,being a therapy dog, stick fetching, ball chasing.",
+      "likes": "Likes : Sticks, balls, sunbathing, sofa surfing, sneaking onto beds.",
+      "dislikes": "Dislikes: Waves, skateboards, postmen (and women), other dogs.",
+      "image_source": "https://i2.wp.com/puppytoob.com/wp-content/uploads/2013/07/Frisbee_Dog_5.jpg?w=620&ssl=1",
+      "url": "harvey"
+    },
+    {
+      "name": "Ziggy",
+      "breed": "Breed: Boxer, staffie, greyhound mix (Rescue dog).",
+      "age": "Age: 2 years.",
+      "skills": "Skills: Skateboarding, hole-digging, shoe-eating.",
+      "likes":"Likes : Meeting other dogs, playing with other dogs, playing,",
+      "dislikes":"Dislikes: Being ignored, sitting still.",
+      "image_source": "https://tse2.mm.bing.net/th?id=OIP.JmAqRLh-a-LpVrGE4K-vVwHaEL&pid=Api&P=0&w=285&h=162",
+      "url": "ziggy"
+    },
+    {
+      "name": "Basil",
+      "breed": "Breed: German Shepherd Wolfhound cross.",
+      "age": "Age: 8 years.",
+      "skills": "Skills: Skateboarding, hole-digging, shoe eating.",
+      "likes":"Likes : The outdoor life, weekends in the country.",
+      "dislikes":"Dislikes: The folly of youth, puppies, any competition.",
+      "image_source": "https://tse3.mm.bing.net/th?id=OIP.bYEz73aPsBM037b3oTuZuwHaEP&pid=Api&P=0&w=278&h=160",
+      "url": "basil"
+    },
+    {
+      "name": "Packie",
+      "breed": "Breed: Terrier.",
+      "age": "Age: 5 years",
+      "skills": "Skills: Goal Keeping, ball chasing, ball eating, chasing balls, stealing balls, destroying balls, staring at balls.",
+      "likes":"Likes : Jumping, hopping, skipping,and more jumping.",
+      "dislikes":"Dislikes: Nothing.",
+      "image_source": "https://tse4.mm.bing.net/th?id=OIP.dFYvC0ZglA3aJKDaC4WmoAHaE8&pid=Api&P=0&w=268&h=179",
+      "url": "packie"
+    },
+    {
+      "name": "Annie",
+      "breed": "Breed: Labrador.",
+      "age": "Age: 4 years.",
+      "skills": "Skills: Surfing.",
+      "likes":"Likes : Eating, chilling, eating, sleeping, eating, swimming, eating.",
+      "dislikes":"Dislikes: Not eating.",
+      "image_source": "https://tse1.mm.bing.net/th?id=OIP.CtsfH6n7mT6KVloKCgkK6wHaE8&pid=Api&P=0&w=260&h=174",
+      "url": "annie"
+    },
+    {
+      "name": "Scottie",
+      "breed": "Breed: West Highland terrier.",
+      "age": "Age: 3 years.",
+      "skills": "Water skiing, laughing, rolling on my back, playing.",
+      "likes":"Likes : .",
+      "dislikes":"Dislikes: .",
+      "image_source": "https://tse1.mm.bing.net/th?id=OIP.x-E3on5ePFya2k3BBTkGpQHaJd&pid=Api&P=0&w=300&h=300",
+      "url": "scottie"
+    },
+    {
+      "name": "Victor",
+      "breed": "Boxer.",
+      "age": "Age: 11 years.",
+      "skills": "Skiing, grumping, being acrried, not believing it.",
+      "likes":"Likes : .",
+      "dislikes":"Dislikes: .",
+      "image_source": "https://tse1.mm.bing.net/th?id=OIP.Es5JjRtw11ntBtuOitZzYQHaEK&pid=Api&P=0&w=282&h=159",
+      "url": "victor"
+    },
+    {
+      "name": "Butch and Sunny",
+      "breed": "Breeds: Butch - Black Labrador; Sunny - Golden Retreiver.",
+      "age": "Age: Butch - 4 years; Sunny - & years.",
+      "skills": "Skills: Skateboarding, hole-digging, shoe eating.",
+      "likes":"Likes : .",
+      "dislikes":"Dislikes: .",
+      "image_source": "https://tse3.mm.bing.net/th?id=OIP.EBeNjkJuboZ-sQ-rghxqDwHaHa&pid=Api&P=0&w=300&h=300",
+      "url": "butchandsunny"
+    },
+    {
+      "name": "Biffo",
+      "breed": "Breed: Boxer, staffie, greyhound mix (Rescue dog).",
+      "age": "Age: 6 years.",
+      "skills": "Skills: Skateboarding, hole-digging, shoe eating.",
+      "likes":"Likes : .",
+      "dislikes":"Dislikes: .",
+      "image_source": "https://tse2.mm.bing.net/th?id=OIP.di2OXs-B9SR4mQ2pLKNkqAHaEK&pid=Api&P=0&w=299&h=169",
+      "url": "biffo"
+    },
+    {
+      "name": "Charlie",
+      "breed": "Breed: Boxer, staffie, greyhound mix (Rescue dog).",
+      "age": "Age: 6 years.",
+      "skills": "Skills: SSkateboarding, hole-digging, shoe eating.",
+      "likes":"Likes : .",
+      "dislikes":"Dislikes: .",
+      "image_source": "https://tse2.mm.bing.net/th?id=OIP.zrtDeH2rhBTHSCuCRmcZ2gHaEk&pid=Api&P=0&w=300&h=185",
+      "url": "charlie"
+    }
+  ]
