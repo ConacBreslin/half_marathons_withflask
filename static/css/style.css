@@ -2,9 +2,3 @@
     width: 100%; 
 }
 
-
-.masthead {
-    min-height: 100vh;
-    background: url("../images/card-table.jpg") #263538 no-repeat center center;
-    background-size: cover;
-}
