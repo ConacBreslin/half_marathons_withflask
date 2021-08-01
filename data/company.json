@@ -54,7 +54,7 @@
       "breed": "Breed: West Highland terrier.",
       "age": "Age: 3 years.",
       "skills": "Water skiing, laughing, rolling on my back, playing.",
-      "likes":"Likes : Tummy scritches.",
+      "likes":"Likes : Tummy scritches, treats.",
       "dislikes":"Dislikes: Night time, The dark, being alone.",
       "image_source": "https://tse1.mm.bing.net/th?id=OIP.x-E3on5ePFya2k3BBTkGpQHaJd&pid=Api&P=0&w=300&h=300",
       "url": "scottie"
@@ -93,8 +93,8 @@
       "name": "Charlie",
       "breed": "Breed: Retreiver.",
       "age": "Age: 5 years.",
-      "skills": "Skills: Snorkling, scuba diving, swimming, any watersport.",
-      "likes":"Likes : Water, food, hairy hugs.",
+      "skills": "Skills: Snorkling, scuba diving, swimming.",
+      "likes":"Likes : Any watersports, food, hairy hugs.",
       "dislikes":"Dislikes: Going home.",
       "image_source": "https://tse2.mm.bing.net/th?id=OIP.zrtDeH2rhBTHSCuCRmcZ2gHaEk&pid=Api&P=0&w=300&h=185",
       "url": "charlie"
