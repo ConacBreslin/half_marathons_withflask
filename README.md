@@ -3,7 +3,7 @@
 You can visit my Github repository [here](https://github.com/ConacBreslin?tab=repositories). 
 
 ## Visit the deployed website
-[![Harvey & Co website](assets/images/banner.png "Visit the deployed site here")](https://harvey-and-co.herokuapp.com/)
+[Visit the deployed site here](https://harvey-and-co.herokuapp.com/)
 
 
 ## Languages used
@@ -13,11 +13,12 @@ You can visit my Github repository [here](https://github.com/ConacBreslin?tab=re
 
 [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language)
+[Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## Frameworks, Libraries and online resources used
 - Gits's [gitpod](https://www.gitpod.io/) was used for writing and editing code, and for submitting and pushing to GitHub.
 - [GitHub](https://github.com/) was used for storing the code after being pushed from Git.
 - [Bootstrap 5.0.1](https://getbootstrap.com/) was used for responsiveness and styling.
 - [Flask](https://en.wikipedia.org/wiki/Flask_%28web_framework%29)
-- [Jinja template engine](https://en.wikipedia.org/wiki/Jinja_(template_engine)
+- [Jinja template engine](https://en.wikipedia.org/wiki/Jinja_(template_engine))
+- [Heroku](https://en.wikipedia.org/wiki/Heroku)
