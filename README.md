@@ -1,4 +1,4 @@
-# **Harvey & Co - A fictional but fun website developed to highlight the talents of Harvey and his hairy crew, and my burgeoning talents as a Full Stack Developer. It was written with python, using the Flask framework and was deployed to Heroku.I hope you enjoy looking at as much as I have enjoyed creating it.**
+## **Harvey & Co - A fictional but fun website developed to highlight the talents of Harvey and his hairy crew, and my burgeoning talents as a Full Stack Developer. It was written with python, using the Flask framework and was deployed to Heroku.I hope you enjoy looking at as much as I have enjoyed creating it.**
 
 You can visit my Github repository [here](https://github.com/ConacBreslin?tab=repositories). 
 
